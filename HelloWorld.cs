@@ -2,4 +2,6 @@
 Console.WriteLine("Hello World!");
 /// now I do another operation
 Console.WriteLine("I am Andrea");
-//add a comment
+//I add some other personal informations:
+Console.WriteLine("I am 47 years old");
+Console.WriteLine("I live in Copenhagen");
